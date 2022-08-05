@@ -128,7 +128,7 @@ class _HomePageState extends State<HomePage> {
         height: 230.0,
         decoration: const BoxDecoration(
           shape: BoxShape.rectangle,
-          color: Colors.white,
+          color: Colors.blueGrey,
           borderRadius: BorderRadius.all(Radius.circular(20.0)),
         ),
         child: Column(
